@@ -1,56 +1,3 @@
-# DEPIN-BOT FOR DePIN Alliance Telegram Miniapp
-
-This script is under development, there may still be many bugs or glitches that are definitely not comfortable, but I tried to make the full feature features as in the original Depin Alliance bot telegram.
-
-[TELEGRAM CHANNEL](https://t.me/Deeplchain) | [TWITTER](https://x.com/itsjaw_real)
-
-## REGISTER FIRST : [DEPIN ALIANCE](https://t.me/DePIN_Alliance_Bot?start=P8YJYaETWS)
-
-# Feature
-
-  - Support for multiple proxy servers
-  - Support for multiple telegram accounts
-  - Completion of tasks that are of course without real verification
-  - Upgrade randomly selected skills
-  - Open a cyber box that can be set to the maximum price
-  - Purchase items in the shop that can be set to the maximum price.
-  - Automatically use items that have higher Reward Points
-  - Manage the items in the account's BAG(ITEM)
-  - Manage the items with the ability to sell items (on proggress)
-  - Can run 24/7 using vps / rdp or something like that
-
-
-## Requirements
-
-- Python 3.8+
-
-## Installation
-
-1. **Clone the repository**
-
-    ```bash
-    git clone https://github.com/jawikas/depin-bot.git
-    ```
-
-2. **Navigate to the project directory**
-
-    ```bash
-    cd depin-bot
-    ```
-
-3. **Create a virtual environment (optional but recommended)**
-
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-    ```
-
-4. **Install dependencies**
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ## Configuration
 
 1. **Create a `config.json` file**
@@ -103,17 +50,3 @@ This script is under development, there may still be many bugs or glitches that 
     query1
     query2
     ```
-
-## Usage
-
-To run the bot, execute the following command:
-
-```bash
-python main.py
-```
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Contact
-For questions or support, please contact [ https://t.me/DeeplChainSup ]
